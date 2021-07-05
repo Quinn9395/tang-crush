@@ -1,7 +1,6 @@
 const CONFIG = {
-    introTitle: 'Cô Cú à!',
-    introDesc: ` Chỉ cần ngồi với em
-    Chút thôi, được không?
+    introTitle: 'Cô Cú à',
+    introDesc: ` Chỉ cần ngồi với em. Chút thôi, được không?
     Nhìn vào đôi mắt em
     Thấy sao một thế giới màu hồng,
     btnIntro: 'hi :))',
